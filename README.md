@@ -51,3 +51,5 @@ Agent B (Zombie):
 - The zombie moves towards the nearest survivor while avoiding obstacles, adjusting speed based on terrain (beach or normal land).
 - The zombie attacks survivors nearest to it, dealing damage to them.
 - If the zombie dies, it respawns at a random position on the map.
+
+This project is intended for educational purposes only. Unauthorized use, reproduction, or submission as coursework is strictly prohibited.
